@@ -1,11 +1,6 @@
-##Credit Card Default Prediction
+![image](https://github.com/user-attachments/assets/d94a8a4b-0e7e-401c-aff0-cf93aa2cd04e)
 
-##Aim 
 
-The Aim of this project is to accurately predict credit card default from the perspective of managing risk. Where the prediction accuracy of the selected model is precise.
-
-##Source 
-The source of this dataset comes from UCI machine learning repositories. https://archive.ics.uci.edu/dataset/350/default+of+credit+card +clients. 
 
 ##Format of dataset 
 
